@@ -1,0 +1,74 @@
+/*
+body{
+                margin:0px;
+            }
+            .con{
+                border:3px solid red;
+
+
+            }
+            .border{
+                border:1px solid blue;
+                height:80px;
+            }
+            .rw{
+                border:1px solid blue;
+            }
+            .rw2,.border2{
+                border:1px solid blue;
+                height:500px;
+
+            }
+*/
+.navbar{
+/*   background-color: rgb(13, 70, 109);*/
+    background:url("navbg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 1200px 200px;
+
+}
+#mapcov{
+    width: 100%; height: 80%;
+     position:fixed;
+     text-align:right;
+     padding-top: 20px;
+}
+#map{
+ width: 50%; height: 100%; margin:0px auto; display:inline-block
+}
+.navbar-brand{
+    margin:0;
+    padding-top:0;
+}
+.logo{
+    height:90px;
+    padding-left: 10px;
+
+}
+.icn{
+    color: black;
+}
+html,body,#bg-img{
+    height: 100%;
+}
+.lis{
+    font-size: 20px;
+    padding-right: 10px;
+    color:2x solid black;
+}
+header{
+/*   / background:linear-gradient( rgba(0, 0, 0, 1), rgba(0, 0, 0,0.5) ),url("Dublin-Bus_bg.jpg");*/
+
+ background: rgba(211,211,211, 0.5);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+

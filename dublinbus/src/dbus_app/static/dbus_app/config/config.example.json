@@ -1,0 +1,16 @@
+{
+  "WEATHER": {
+    "CITY_ID": "insert city id",
+    "SECRET_KEY": "insert api key"
+  },
+  "DIRECTIONS": {
+    "SECRET_KEY": "insert api key"
+  },
+  "DB_CONN": {
+    "ENGINE": "django.db.backends.postgresql",
+    "HOST": "127.0.0.1",
+    "NAME": "postgres",
+    "PORT":"5432",
+    "PASSWORD": "yourpsw"
+  }
+}
