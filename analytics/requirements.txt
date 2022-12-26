@@ -65,6 +65,6 @@ virtualenv==16.6.0
 virtualenvwrapper-win==1.2.5
 wcwidth==0.1.7
 webencodings==0.5.1
-wheel==0.33.4
+wheel==0.38.1
 widgetsnbextension==3.5.0
 wincertstore==0.2
