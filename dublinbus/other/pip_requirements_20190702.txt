@@ -47,7 +47,7 @@ pyzmq==18.0.2
 qtconsole==4.5.1
 requests==2.22.0
 Send2Trash==1.5.0
-setuptools==41.0.1
+setuptools==65.5.1
 six==1.12.0
 sqlparse==0.3.0
 terminado==0.8.2
